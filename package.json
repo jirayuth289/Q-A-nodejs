@@ -1,0 +1,23 @@
+{
+  "name": "q-a-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon --ext js --watch src --exec node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jirayuth289/Q-A-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jirayuth289/Q-A-nodejs/issues"
+  },
+  "homepage": "https://github.com/jirayuth289/Q-A-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
